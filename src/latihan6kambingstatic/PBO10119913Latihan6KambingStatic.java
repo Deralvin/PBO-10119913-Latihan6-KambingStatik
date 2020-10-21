@@ -11,7 +11,7 @@ package latihan6kambingstatic;
  * @author NIM 10119913
  */
 
-public class Latihan6KambingStatic {
+public class PBO10119913Latihan6KambingStatic {
 
     public static final String NAMA_KAMBING = "MIDUN";
     
